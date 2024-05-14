@@ -19,4 +19,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           email: stanislav.sakun@ukr.net
-          build_dir: ./
+          build_dir: ./dist
