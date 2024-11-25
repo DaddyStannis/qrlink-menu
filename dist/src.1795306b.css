@@ -264,10 +264,10 @@ body.hidden {
 .hero-img__overlay {
   content: '';
   position: absolute;
-  top: 3%;
-  left: 13%;
-  width: 68%;
-  height: 86%;
+  top: 4%;
+  left: 3%;
+  width: 86.63%;
+  height: 85.37%;
   z-index: 1;
   object-fit: cover;
   overflow: visible;
@@ -1239,4 +1239,4 @@ body.hidden {
 
 
 
-/*# sourceMappingURL=src.4ed6eb2d.css.map */
+/*# sourceMappingURL=src.1795306b.css.map */
