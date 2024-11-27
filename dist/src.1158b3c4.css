@@ -647,6 +647,12 @@ body.hidden {
   }
 }
 
+@media screen and (min-width: 768px) {
+  .feature-list li span {
+    max-width: 248px;
+  }
+}
+
 @media only screen and (max-width: 1023px) {
   .inner .feature {
     margin-bottom: 65px;
@@ -1257,4 +1263,4 @@ body.hidden {
 
 
 
-/*# sourceMappingURL=src.c4d9bd77.css.map */
+/*# sourceMappingURL=src.1158b3c4.css.map */
