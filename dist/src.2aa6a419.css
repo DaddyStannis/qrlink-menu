@@ -648,7 +648,7 @@ body.hidden {
 }
 
 @media screen and (min-width: 768px) {
-  .feature-list li span {
+  .feature-list li span:not(:last-of-type) {
     max-width: 248px;
   }
 }
@@ -1263,4 +1263,4 @@ body.hidden {
 
 
 
-/*# sourceMappingURL=src.1158b3c4.css.map */
+/*# sourceMappingURL=src.2aa6a419.css.map */
